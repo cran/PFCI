@@ -1,7 +1,7 @@
 Package: PFCI
 Title: Penalized Fast Causal Inference for High-Dimensional Structure
         Learning
-Version: 0.1.0
+Version: 0.1.1
 Date: 2026-05-28
 Authors@R: c(
     person("Samhita", "Pal", email = "spal4@ncsu.edu",
@@ -33,11 +33,11 @@ VignetteBuilder: knitr
 Config/testthat/edition: 3
 Language: en-US
 NeedsCompilation: no
-Packaged: 2026-05-29 19:16:19 UTC; dghosh3
+Packaged: 2026-06-03 05:13:14 UTC; dghosh3
 Author: Samhita Pal [aut] (ORCID: <https://orcid.org/0009-0001-4930-916X>),
   Dhrubajyoti Ghosh [aut, cre] (ORCID:
     <https://orcid.org/0000-0002-3360-3786>),
   Shu Yang [aut] (ORCID: <https://orcid.org/0000-0001-7703-707X>)
 Maintainer: Dhrubajyoti Ghosh <dghosh3@kennesaw.edu>
 Repository: CRAN
-Date/Publication: 2026-06-02 11:20:13 UTC
+Date/Publication: 2026-06-03 08:40:02 UTC

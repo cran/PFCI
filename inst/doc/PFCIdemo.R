@@ -4,13 +4,6 @@ knitr::opts_chunk$set(
   comment = "#>"
 )
 
-## ----install, eval = FALSE----------------------------------------------------
-# install.packages("PFCI")
-# 
-# # Required Bioconductor dependencies
-# install.packages("BiocManager")
-# BiocManager::install(c("pcalg", "graph", "RBGL", "Rgraphviz"))
-
 ## ----basic, eval = FALSE------------------------------------------------------
 # library(PFCI)
 # 
